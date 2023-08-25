@@ -1,0 +1,68 @@
+ body{
+    background-image: url("https://previews.123rf.com/images/vkulieva/vkulieva1602/vkulieva160200007/52452427-seamless-pattern-for-todo-list-universal-background.jpg");
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+ }
+ .container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 33%;
+    margin-top: 5px;
+    font-weight: bold;
+
+.head{
+   font-family: roboto;
+   text-decoration: underline;
+   color: blue;
+   font-size: x-large;
+   font-style: italic;
+}
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(70, 54, 163);
+    outline: none;
+    font-size: 19px;
+    border-radius: 15px;
+
+
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(226, 111, 201);
+    color: rgb(27, 13, 13);
+    border: none;
+    cursor: pointer;
+
+    outline: none;
+    border-radius: 15px;
+    font-size: 19px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(206, 203, 198);
+    color: rgb(19, 11, 0);
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
+
+
+
+
+
+
+
+
+
+
